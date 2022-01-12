@@ -1,0 +1,30 @@
+body {
+  background-color: #04293a;
+  color: white;
+}
+.container {
+  min-height: 100vh;
+}
+.movie-container {
+  min-height: 100vh;
+}
+.card {
+  background-color: #191919;
+  border-radius: 12px;
+}
+.btn {
+  background: #9a0680;
+  color: white;
+  transition: ease-in 0.2s;
+}
+.btn:hover {
+  background: #4c0070;
+  color: white;
+}
+h1 {
+  color: #9a0680;
+}
+footer {
+  position: relative;
+  bottom: 10px;
+}
